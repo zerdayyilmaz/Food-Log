@@ -1,0 +1,718 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		5E84E3AC2DDD013300AD60C6 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 5E84E3AB2DDD013300AD60C6 /* FirebaseAuth */; };
+		5E84E3AE2DDD013300AD60C6 /* FirebaseAuthCombine-Community in Frameworks */ = {isa = PBXBuildFile; productRef = 5E84E3AD2DDD013300AD60C6 /* FirebaseAuthCombine-Community */; };
+		5E84E3B02DDD013300AD60C6 /* FirebaseDatabase in Frameworks */ = {isa = PBXBuildFile; productRef = 5E84E3AF2DDD013300AD60C6 /* FirebaseDatabase */; };
+		5E84E3B22DDD013300AD60C6 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 5E84E3B12DDD013300AD60C6 /* FirebaseFirestore */; };
+		5E84E3B42DDD013300AD60C6 /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = 5E84E3B32DDD013300AD60C6 /* FirebaseStorage */; };
+		5E84E3C62DDD0CBF00AD60C6 /* MijickCalendarView in Frameworks */ = {isa = PBXBuildFile; productRef = 5E84E3C52DDD0CBF00AD60C6 /* MijickCalendarView */; };
+		5E9213992E5E4B9A007C5E9C /* Kingfisher in Frameworks */ = {isa = PBXBuildFile; productRef = 5E9213982E5E4B9A007C5E9C /* Kingfisher */; };
+		5EF798312E6D937700B5E2BE /* FirebaseMessaging in Frameworks */ = {isa = PBXBuildFile; productRef = 5EF798302E6D937700B5E2BE /* FirebaseMessaging */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		5E84E37E2DDD002700AD60C6 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 5E84E3642DDD002600AD60C6 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5E84E36B2DDD002600AD60C6;
+			remoteInfo = FoodLog;
+		};
+		5E84E3882DDD002700AD60C6 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 5E84E3642DDD002600AD60C6 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5E84E36B2DDD002600AD60C6;
+			remoteInfo = FoodLog;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		5E84E36C2DDD002600AD60C6 /* FoodLog.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoodLog.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5E84E37D2DDD002700AD60C6 /* FoodLogTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FoodLogTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		5E84E3872DDD002700AD60C6 /* FoodLogUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FoodLogUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		5EF7982F2E6D92FD00B5E2BE /* Exceptions for "FoodLog" folder in "FoodLog" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 5E84E36B2DDD002600AD60C6 /* FoodLog */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		5E84E36E2DDD002600AD60C6 /* FoodLog */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				5EF7982F2E6D92FD00B5E2BE /* Exceptions for "FoodLog" folder in "FoodLog" target */,
+			);
+			path = FoodLog;
+			sourceTree = "<group>";
+		};
+		5E84E3802DDD002700AD60C6 /* FoodLogTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = FoodLogTests;
+			sourceTree = "<group>";
+		};
+		5E84E38A2DDD002700AD60C6 /* FoodLogUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = FoodLogUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5E84E3692DDD002600AD60C6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5EF798312E6D937700B5E2BE /* FirebaseMessaging in Frameworks */,
+				5E84E3C62DDD0CBF00AD60C6 /* MijickCalendarView in Frameworks */,
+				5E84E3B02DDD013300AD60C6 /* FirebaseDatabase in Frameworks */,
+				5E9213992E5E4B9A007C5E9C /* Kingfisher in Frameworks */,
+				5E84E3B22DDD013300AD60C6 /* FirebaseFirestore in Frameworks */,
+				5E84E3AC2DDD013300AD60C6 /* FirebaseAuth in Frameworks */,
+				5E84E3B42DDD013300AD60C6 /* FirebaseStorage in Frameworks */,
+				5E84E3AE2DDD013300AD60C6 /* FirebaseAuthCombine-Community in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5E84E37A2DDD002700AD60C6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5E84E3842DDD002700AD60C6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5E84E3632DDD002600AD60C6 = {
+			isa = PBXGroup;
+			children = (
+				5E84E36E2DDD002600AD60C6 /* FoodLog */,
+				5E84E3802DDD002700AD60C6 /* FoodLogTests */,
+				5E84E38A2DDD002700AD60C6 /* FoodLogUITests */,
+				5E84E36D2DDD002600AD60C6 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5E84E36D2DDD002600AD60C6 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5E84E36C2DDD002600AD60C6 /* FoodLog.app */,
+				5E84E37D2DDD002700AD60C6 /* FoodLogTests.xctest */,
+				5E84E3872DDD002700AD60C6 /* FoodLogUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5E84E36B2DDD002600AD60C6 /* FoodLog */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5E84E3912DDD002700AD60C6 /* Build configuration list for PBXNativeTarget "FoodLog" */;
+			buildPhases = (
+				5E84E3682DDD002600AD60C6 /* Sources */,
+				5E84E3692DDD002600AD60C6 /* Frameworks */,
+				5E84E36A2DDD002600AD60C6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				5E84E36E2DDD002600AD60C6 /* FoodLog */,
+			);
+			name = FoodLog;
+			packageProductDependencies = (
+				5E84E3AB2DDD013300AD60C6 /* FirebaseAuth */,
+				5E84E3AD2DDD013300AD60C6 /* FirebaseAuthCombine-Community */,
+				5E84E3AF2DDD013300AD60C6 /* FirebaseDatabase */,
+				5E84E3B12DDD013300AD60C6 /* FirebaseFirestore */,
+				5E84E3B32DDD013300AD60C6 /* FirebaseStorage */,
+				5E84E3C52DDD0CBF00AD60C6 /* MijickCalendarView */,
+				5E9213982E5E4B9A007C5E9C /* Kingfisher */,
+				5EF798302E6D937700B5E2BE /* FirebaseMessaging */,
+			);
+			productName = FoodLog;
+			productReference = 5E84E36C2DDD002600AD60C6 /* FoodLog.app */;
+			productType = "com.apple.product-type.application";
+		};
+		5E84E37C2DDD002700AD60C6 /* FoodLogTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5E84E3942DDD002700AD60C6 /* Build configuration list for PBXNativeTarget "FoodLogTests" */;
+			buildPhases = (
+				5E84E3792DDD002700AD60C6 /* Sources */,
+				5E84E37A2DDD002700AD60C6 /* Frameworks */,
+				5E84E37B2DDD002700AD60C6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				5E84E37F2DDD002700AD60C6 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				5E84E3802DDD002700AD60C6 /* FoodLogTests */,
+			);
+			name = FoodLogTests;
+			packageProductDependencies = (
+			);
+			productName = FoodLogTests;
+			productReference = 5E84E37D2DDD002700AD60C6 /* FoodLogTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		5E84E3862DDD002700AD60C6 /* FoodLogUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5E84E3972DDD002700AD60C6 /* Build configuration list for PBXNativeTarget "FoodLogUITests" */;
+			buildPhases = (
+				5E84E3832DDD002700AD60C6 /* Sources */,
+				5E84E3842DDD002700AD60C6 /* Frameworks */,
+				5E84E3852DDD002700AD60C6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				5E84E3892DDD002700AD60C6 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				5E84E38A2DDD002700AD60C6 /* FoodLogUITests */,
+			);
+			name = FoodLogUITests;
+			packageProductDependencies = (
+			);
+			productName = FoodLogUITests;
+			productReference = 5E84E3872DDD002700AD60C6 /* FoodLogUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5E84E3642DDD002600AD60C6 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					5E84E36B2DDD002600AD60C6 = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					5E84E37C2DDD002700AD60C6 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 5E84E36B2DDD002600AD60C6;
+					};
+					5E84E3862DDD002700AD60C6 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 5E84E36B2DDD002600AD60C6;
+					};
+				};
+			};
+			buildConfigurationList = 5E84E3672DDD002600AD60C6 /* Build configuration list for PBXProject "FoodLog" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				nl,
+			);
+			mainGroup = 5E84E3632DDD002600AD60C6;
+			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				5E84E3AA2DDD013300AD60C6 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+				5E84E3C42DDD0CBF00AD60C6 /* XCRemoteSwiftPackageReference "CalendarView" */,
+				5E9213972E5E4B9A007C5E9C /* XCRemoteSwiftPackageReference "Kingfisher" */,
+			);
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 5E84E36D2DDD002600AD60C6 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5E84E36B2DDD002600AD60C6 /* FoodLog */,
+				5E84E37C2DDD002700AD60C6 /* FoodLogTests */,
+				5E84E3862DDD002700AD60C6 /* FoodLogUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5E84E36A2DDD002600AD60C6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5E84E37B2DDD002700AD60C6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5E84E3852DDD002700AD60C6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5E84E3682DDD002600AD60C6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5E84E3792DDD002700AD60C6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5E84E3832DDD002700AD60C6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		5E84E37F2DDD002700AD60C6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5E84E36B2DDD002600AD60C6 /* FoodLog */;
+			targetProxy = 5E84E37E2DDD002700AD60C6 /* PBXContainerItemProxy */;
+		};
+		5E84E3892DDD002700AD60C6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5E84E36B2DDD002600AD60C6 /* FoodLog */;
+			targetProxy = 5E84E3882DDD002700AD60C6 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		5E84E38F2DDD002700AD60C6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		5E84E3902DDD002700AD60C6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+			};
+			name = Release;
+		};
+		5E84E3922DDD002700AD60C6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = FoodLog/FoodLog.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"FoodLog/Preview Content\"";
+				DEVELOPMENT_TEAM = 68DAVQ9X85;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = FoodLog/Info.plist;
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "We need access to your photo library so you can choose a profile picture.";
+				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
+				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
+				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
+				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 14.6;
+				MARKETING_VERSION = 1.2;
+				PRODUCT_BUNDLE_IDENTIFIER = com.zerda.FoodLog;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2,7";
+				XROS_DEPLOYMENT_TARGET = 2.2;
+			};
+			name = Debug;
+		};
+		5E84E3932DDD002700AD60C6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = FoodLog/FoodLog.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"FoodLog/Preview Content\"";
+				DEVELOPMENT_TEAM = 68DAVQ9X85;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = FoodLog/Info.plist;
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "We need access to your photo library so you can choose a profile picture.";
+				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
+				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
+				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
+				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
+				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
+				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 14.6;
+				MARKETING_VERSION = 1.2;
+				PRODUCT_BUNDLE_IDENTIFIER = com.zerda.FoodLog;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2,7";
+				XROS_DEPLOYMENT_TARGET = 2.2;
+			};
+			name = Release;
+		};
+		5E84E3952DDD002700AD60C6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 68DAVQ9X85;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MACOSX_DEPLOYMENT_TARGET = 14.6;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.zerda.FoodLogTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2,7";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FoodLog.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/FoodLog";
+				XROS_DEPLOYMENT_TARGET = 2.2;
+			};
+			name = Debug;
+		};
+		5E84E3962DDD002700AD60C6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 68DAVQ9X85;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MACOSX_DEPLOYMENT_TARGET = 14.6;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.zerda.FoodLogTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2,7";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FoodLog.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/FoodLog";
+				XROS_DEPLOYMENT_TARGET = 2.2;
+			};
+			name = Release;
+		};
+		5E84E3982DDD002700AD60C6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 68DAVQ9X85;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MACOSX_DEPLOYMENT_TARGET = 14.6;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.zerda.FoodLogUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2,7";
+				TEST_TARGET_NAME = FoodLog;
+				XROS_DEPLOYMENT_TARGET = 2.2;
+			};
+			name = Debug;
+		};
+		5E84E3992DDD002700AD60C6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 68DAVQ9X85;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MACOSX_DEPLOYMENT_TARGET = 14.6;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.zerda.FoodLogUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = auto;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2,7";
+				TEST_TARGET_NAME = FoodLog;
+				XROS_DEPLOYMENT_TARGET = 2.2;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5E84E3672DDD002600AD60C6 /* Build configuration list for PBXProject "FoodLog" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5E84E38F2DDD002700AD60C6 /* Debug */,
+				5E84E3902DDD002700AD60C6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5E84E3912DDD002700AD60C6 /* Build configuration list for PBXNativeTarget "FoodLog" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5E84E3922DDD002700AD60C6 /* Debug */,
+				5E84E3932DDD002700AD60C6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5E84E3942DDD002700AD60C6 /* Build configuration list for PBXNativeTarget "FoodLogTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5E84E3952DDD002700AD60C6 /* Debug */,
+				5E84E3962DDD002700AD60C6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5E84E3972DDD002700AD60C6 /* Build configuration list for PBXNativeTarget "FoodLogUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5E84E3982DDD002700AD60C6 /* Debug */,
+				5E84E3992DDD002700AD60C6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		5E84E3AA2DDD013300AD60C6 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 11.13.0;
+			};
+		};
+		5E84E3C42DDD0CBF00AD60C6 /* XCRemoteSwiftPackageReference "CalendarView" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Mijick/CalendarView.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.0.0;
+			};
+		};
+		5E9213972E5E4B9A007C5E9C /* XCRemoteSwiftPackageReference "Kingfisher" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/onevcat/Kingfisher";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 8.5.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		5E84E3AB2DDD013300AD60C6 /* FirebaseAuth */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 5E84E3AA2DDD013300AD60C6 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAuth;
+		};
+		5E84E3AD2DDD013300AD60C6 /* FirebaseAuthCombine-Community */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 5E84E3AA2DDD013300AD60C6 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = "FirebaseAuthCombine-Community";
+		};
+		5E84E3AF2DDD013300AD60C6 /* FirebaseDatabase */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 5E84E3AA2DDD013300AD60C6 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseDatabase;
+		};
+		5E84E3B12DDD013300AD60C6 /* FirebaseFirestore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 5E84E3AA2DDD013300AD60C6 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseFirestore;
+		};
+		5E84E3B32DDD013300AD60C6 /* FirebaseStorage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 5E84E3AA2DDD013300AD60C6 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseStorage;
+		};
+		5E84E3C52DDD0CBF00AD60C6 /* MijickCalendarView */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 5E84E3C42DDD0CBF00AD60C6 /* XCRemoteSwiftPackageReference "CalendarView" */;
+			productName = MijickCalendarView;
+		};
+		5E9213982E5E4B9A007C5E9C /* Kingfisher */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 5E9213972E5E4B9A007C5E9C /* XCRemoteSwiftPackageReference "Kingfisher" */;
+			productName = Kingfisher;
+		};
+		5EF798302E6D937700B5E2BE /* FirebaseMessaging */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 5E84E3AA2DDD013300AD60C6 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseMessaging;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 5E84E3642DDD002600AD60C6 /* Project object */;
+}

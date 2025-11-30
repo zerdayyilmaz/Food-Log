@@ -1,0 +1,1377 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    " %@" : {
+
+    },
+    "- Access and export your data\n- Request deletion of your account\n- Withdraw consent by deleting your account" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "- Toegang krijgen tot en je gegevens exporteren\n- Verwijdering van je account aanvragen\n- Je toestemming intrekken door je account te verwijderen"
+          }
+        }
+      }
+    },
+    "(%%%@)" : {
+
+    },
+    "**%@:**" : {
+
+    },
+    "**Attention Needed**" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**Actie vereist**"
+          }
+        }
+      }
+    },
+    "**Make sense** of your gut with **smarter** insights" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Begrijp je darmen met slimmere inzichten"
+          }
+        }
+      }
+    },
+    "**Most Common Symptom**: %@" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**Most Common Symptom**: %@"
+          }
+        }
+      }
+    },
+    "**Positive Progress**" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**Positive Progress**"
+          }
+        }
+      }
+    },
+    "**Safe** Foods" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**Veilig** voedsel"
+          }
+        }
+      }
+    },
+    "**Trigger** Foods" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**Trigger** voedsel"
+          }
+        }
+      }
+    },
+    "%@" : {
+
+    },
+    "%@ %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ %2$lld"
+          }
+        }
+      }
+    },
+    "%@: %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@: %2$lld"
+          }
+        }
+      }
+    },
+    "%lld" : {
+
+    },
+    "%lld times" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld keer"
+          }
+        }
+      }
+    },
+    "%lld×" : {
+
+    },
+    "• %@ (%lld)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "• %1$@ (%2$lld)"
+          }
+        }
+      }
+    },
+    "⚕️" : {
+
+    },
+    "⚠️" : {
+
+    },
+    "✅" : {
+
+    },
+    "🍃" : {
+
+    },
+    "🍃 %lld" : {
+
+    },
+    "📊" : {
+
+    },
+    "🔗" : {
+
+    },
+    "🔥" : {
+
+    },
+    "🔥 %lld" : {
+
+    },
+    "1. Information We Collect" : {
+
+    },
+    "1. Usage Requirements" : {
+
+    },
+    "2. Account Responsibility" : {
+
+    },
+    "2. How We Use Your Data" : {
+
+    },
+    "3. Data Storage & Security" : {
+
+    },
+    "3. Data Usage & Deletion" : {
+
+    },
+    "4. Limitations" : {
+
+    },
+    "4. Third-Party Services" : {
+
+    },
+    "5. Changes to Terms" : {
+
+    },
+    "5. Your Rights" : {
+
+    },
+    "6. Contact" : {
+
+    },
+    "Add" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add"
+          }
+        }
+      }
+    },
+    "Add a comment…" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opmerking toevoegen…"
+          }
+        }
+      }
+    },
+    "Add a custom symptom" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Een aangepast symptoom toevoegen"
+          }
+        }
+      }
+    },
+    "Add any notes about your mood or symptoms..." : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voeg notities toe over je stemming of symptomen..."
+          }
+        }
+      }
+    },
+    "Alert" : {
+
+    },
+    "All Symptoms Frequency" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Frequentie van alle symptomen"
+          }
+        }
+      }
+    },
+    "and" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "en"
+          }
+        }
+      }
+    },
+    "Be the first to share something with the community!" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Be the first to share something with the community!"
+          }
+        }
+      }
+    },
+    "By continuing, you agree to our" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Door verder te gaan, ga je akkoord met onze"
+          }
+        }
+      }
+    },
+    "By using the FoodLog app, you agree to these terms. If you do not agree, please do not use the application." : {
+
+    },
+    "Calendar" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kalender"
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annuleren"
+          }
+        }
+      }
+    },
+    "Cancel Anytime" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Altijd opzegbaa"
+          }
+        }
+      }
+    },
+    "Color Palette" : {
+
+    },
+    "Comments" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opmerkingen"
+          }
+        }
+      }
+    },
+    "Complete symptom analysis on page 2 →" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Volledige symptoomanalyse op pagina 2 →"
+          }
+        }
+      }
+    },
+    "Comprehensive Health Report" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uitgebreid gezondheidsrapport"
+          }
+        }
+      }
+    },
+    "Count" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aantal"
+          }
+        }
+      }
+    },
+    "Day" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Day"
+          }
+        }
+      }
+    },
+    "Delete" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verwijderen"
+          }
+        }
+      }
+    },
+    "Delete account" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Account verwijderen"
+          }
+        }
+      }
+    },
+    "Delete account?" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Account verwijderen?"
+          }
+        }
+      }
+    },
+    "Delete this comment?" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deze opmerking verwijderen?"
+          }
+        }
+      }
+    },
+    "Delete this post?" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deze opmerking verwijderen?"
+          }
+        }
+      }
+    },
+    "Detailed mood analysis on page 3 →" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detailed mood analysis on page 3 →"
+          }
+        }
+      }
+    },
+    "E-mail" : {
+
+    },
+    "e.g. Headache" : {
+
+    },
+    "Edit Fullname" : {
+
+    },
+    "Enter food name" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter food name"
+          }
+        }
+      }
+    },
+    "Enter New Fullname" : {
+
+    },
+    "Error" : {
+
+    },
+    "Food" : {
+
+    },
+    "Food**Log**" : {
+
+    },
+    "FoodLog" : {
+
+    },
+    "FOODLOG" : {
+
+    },
+    "FoodLog - Personal Health Tracking Application" : {
+
+    },
+    "FoodLog (“we”, “us”, or “our”) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your data when you use our mobile application to track your daily meals and digestive symptoms." : {
+
+    },
+    "FoodLog is not a medical app. It does not provide medical advice and should not be used as a diagnostic tool." : {
+
+    },
+    "FoodLog uses Firebase (Google) to securely store your data. While we take steps to protect your information, no system is 100% secure." : {
+
+    },
+    "For legal concerns or questions:\n📧 zerdayilmazy@gmail.com" : {
+
+    },
+    "For questions, contact us at:\n📧 zerdayilmazy@gmail.com" : {
+
+    },
+    "Forgot password?" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forgot password?"
+          }
+        }
+      }
+    },
+    "Generated by: FoodLog App v%@" : {
+
+    },
+    "get" : {
+
+    },
+    "Good balance of safe foods. Continue tracking and consider keeping a food journal for deeper insights." : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Goede balans van veilige voeding. Blijf loggen en overweeg een dagboek voor meer inzicht."
+          }
+        }
+      }
+    },
+    "Insufficient data available" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Onvoldoende gegevens beschikbaar"
+          }
+        }
+      }
+    },
+    "Introduction" : {
+
+    },
+    "Key Insights & Recommendations" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Key Insights & Recommendations"
+          }
+        }
+      }
+    },
+    "Last 7 Days Trends" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Last 7 Days Trends"
+          }
+        }
+      }
+    },
+    "Last updated" : {
+
+    },
+    "Last updated: May 2025" : {
+
+    },
+    "Last week" : {
+
+    },
+    "Let's" : {
+
+    },
+    "Loading comments…" : {
+
+    },
+    "Loading posts..." : {
+
+    },
+    "Loading products…" : {
+
+    },
+    "Log out" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uitloggen"
+          }
+        }
+      }
+    },
+    "Log out?" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uitloggen?"
+          }
+        }
+      }
+    },
+    "Meal breakdown" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maaltijdverdeling"
+          }
+        }
+      }
+    },
+    "Message" : {
+
+    },
+    "Mood" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stemming"
+          }
+        }
+      }
+    },
+    "Mood Distribution" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stemmingsverdeling"
+          }
+        }
+      }
+    },
+    "Mood distribution for selected food" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stemmingsverdeling voor geselecteerd voedsel"
+          }
+        }
+      }
+    },
+    "Mood Overview" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stemmingsoverzicht"
+          }
+        }
+      }
+    },
+    "Moods Associated with '%@'" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stemingen geassocieerd met ‘%@’"
+          }
+        }
+      }
+    },
+    "Most Common Trigger Foods" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meest voorkomende trigger-voedingsmiddelen"
+          }
+        }
+      }
+    },
+    "Most Frequent Symptoms" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meest voorkomende symptomen"
+          }
+        }
+      }
+    },
+    "Most safe foods" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meest veilige voedingsmiddelen"
+          }
+        }
+      }
+    },
+    "Most triggered foods" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meest getriggerde voedingsmiddelen"
+          }
+        }
+      }
+    },
+    "New Post" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sterkste triggers"
+          }
+        }
+      }
+    },
+    "No activity yet." : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nog geen activiteit."
+          }
+        }
+      }
+    },
+    "No comments yet." : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nog geen reacties."
+          }
+        }
+      }
+    },
+    "No foods logged yet." : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nog geen voedingsmiddelen gelogd."
+          }
+        }
+      }
+    },
+    "No mood data available" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geen stemmingsgegevens beschikbaar."
+          }
+        }
+      }
+    },
+    "No notes for these days." : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geen notities voor deze dagen."
+          }
+        }
+      }
+    },
+    "No posts yet" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nog geen berichten."
+          }
+        }
+      }
+    },
+    "No symptom data available" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geen symptoomgegevens beschikbaar."
+          }
+        }
+      }
+    },
+    "Not enough data" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notities voor deze dagen"
+          }
+        }
+      }
+    },
+    "Notes for these days" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Algemene stemmingsverdeling"
+          }
+        }
+      }
+    },
+    "OK" : {
+
+    },
+    "Overall Mood Distribution" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Algemene Stemmingsverdeling"
+          }
+        }
+      }
+    },
+    "Password" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wachtwoord"
+          }
+        }
+      }
+    },
+    "Password should be 6 characters or long" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wachtwoord moet minimaal 6 tekens lang zijn."
+          }
+        }
+      }
+    },
+    "Password updated successfully!" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wachtwoord succesvol bijgewerkt!"
+          }
+        }
+      }
+    },
+    "Please check your informations and try again." : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Controleer je gegevens en probeer het opnieuw."
+          }
+        }
+      }
+    },
+    "Post" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bericht"
+          }
+        }
+      }
+    },
+    "Premium" : {
+
+    },
+    "Privacy and Policy" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacy en beleid"
+          }
+        }
+      }
+    },
+    "Privacy Policy" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacybeleid"
+          }
+        }
+      }
+    },
+    "Profile updated successfully!" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Profiel succesvol bijgewerkt!"
+          }
+        }
+      }
+    },
+    "Quick Access" : {
+
+    },
+    "Recent Activities" : {
+
+    },
+    "Related Tags" : {
+
+    },
+    "Remember your password? Log in now." : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wachtwoord onthouden? Log nu in."
+          }
+        }
+      }
+    },
+    "Report Date:" : {
+
+    },
+    "Report ID: %@" : {
+
+    },
+    "Restore Purchases" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veilige voedingsmiddelen"
+          }
+        }
+      }
+    },
+    "Safe" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veil"
+          }
+        }
+      }
+    },
+    "Safe Foods" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veilige voedingsmiddelen"
+          }
+        }
+      }
+    },
+    "Safe: %lld" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veilig"
+          }
+        }
+      }
+    },
+    "Safest Foods" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meest veilige voedingsmiddelen"
+          }
+        }
+      }
+    },
+    "Save" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Score: %lld"
+          }
+        }
+      }
+    },
+    "Score: %lld" : {
+
+    },
+    "Select a food to see related symptoms" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selecteer een voedingsmiddel om gerelateerde symptomen te zien."
+          }
+        }
+      }
+    },
+    "Select Symptoms" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Symptomen selecteren"
+          }
+        }
+      }
+    },
+    "Send" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verzenden"
+          }
+        }
+      }
+    },
+    "Settings" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instellingen"
+          }
+        }
+      }
+    },
+    "Sign In" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inloggen"
+          }
+        }
+      }
+    },
+    "Sign Up" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registreren"
+          }
+        }
+      }
+    },
+    "Start typing below to add one!" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Begin hieronder te typen om er een toe te voegen!"
+          }
+        }
+      }
+    },
+    "started" : {
+
+    },
+    "Starter" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Basis"
+          }
+        }
+      }
+    },
+    "Stays On" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Altijd actief"
+          }
+        }
+      }
+    },
+    "Subscribe Monthly – %@" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maandelijks abonneren – %@"
+          }
+        }
+      }
+    },
+    "Summary Statistics" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Samenvattende statistieken"
+          }
+        }
+      }
+    },
+    "Symptom" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Symptoom"
+          }
+        }
+      }
+    },
+    "Symptom Frequency Distribution" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Symptoomfrequentieverdeling"
+          }
+        }
+      }
+    },
+    "Symptom Overview" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Symptoomoverzicht"
+          }
+        }
+      }
+    },
+    "Symptoms & Mood (weekly)" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Symptomen & stemming (wekelijks)"
+          }
+        }
+      }
+    },
+    "Symptoms Associated with '%@'" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Symptomen geassocieerd met ‘%@"
+          }
+        }
+      }
+    },
+    "Terms of Service" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Servicevoorwaarden"
+          }
+        }
+      }
+    },
+    "Terms Of Service" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Servicevoorwaarden"
+          }
+        }
+      }
+    },
+    "This action can’t be undone. Your data will be permanently removed." : {
+
+    },
+    "This report is generated for personal tracking purposes only. It should not be used for medical diagnosis or treatment." : {
+
+    },
+    "This week" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deze week"
+          }
+        }
+      }
+    },
+    "Top Safe" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Top Veilig"
+          }
+        }
+      }
+    },
+    "Top Triggers" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Top Triggers"
+          }
+        }
+      }
+    },
+    "Track, learn, improve." : {
+
+    },
+    "Tracked days: %lld" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bijgehouden dagen: %lld"
+          }
+        }
+      }
+    },
+    "Trigger" : {
+
+    },
+    "Trigger Food" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trigger-voedingsmiddel"
+          }
+        }
+      }
+    },
+    "Trigger Foods" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trigger-voedingsmiddelen"
+          }
+        }
+      }
+    },
+    "Trigger vs Safe" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trigger vs veilig"
+          }
+        }
+      }
+    },
+    "Trigger vs Safe Foods" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trigger- vs veilige voedingsmiddelen"
+          }
+        }
+      }
+    },
+    "Trigger: %lld" : {
+
+    },
+    "Unlock" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ontgrendelen"
+          }
+        }
+      }
+    },
+    "Unlock **doctor-ready** PDF reports" : {
+
+    },
+    "Unlock Full Access" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Volledige toegang ontgrendelen"
+          }
+        }
+      }
+    },
+    "Update Mail" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "E-mail bijwerken"
+          }
+        }
+      }
+    },
+    "Update Password" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wachtwoord bijwerken"
+          }
+        }
+      }
+    },
+    "We collect the following types of data:\n- **Account Information**: Email address and name used during registration.\n- **Daily Logs**: Meals you track, food tags, symptom selections, and mood notes.\n- **Device Info**: OS version, app version, and basic device analytics." : {
+
+    },
+    "We may update these terms. Continuing to use the app after changes means you accept the new terms." : {
+
+    },
+    "We use Firebase services. Their privacy policy is available at:\nhttps://firebase.google.com/support/privacy" : {
+
+    },
+    "We use your data to:\n- Enable daily tracking and personalized insights.\n- Store and sync your logs across sessions.\n- Provide customer support if requested." : {
+
+    },
+    "Weekly Health Report" : {
+      "localizations" : {
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wekelijks gezondheidsrapport"
+          }
+        }
+      }
+    },
+    "Weekly Trends" : {
+
+    },
+    "Welcome to FoodLog!" : {
+
+    },
+    "what_future" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Planning to eat something that day?"
+          }
+        }
+      }
+    },
+    "what_that_day" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What did you eat that day?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wat heb je die dag gegeten?"
+          }
+        }
+      }
+    },
+    "what_today" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What have you eaten today?"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wat heb je vandaag gegeten?"
+          }
+        }
+      }
+    },
+    "Working…" : {
+
+    },
+    "You are responsible for maintaining the confidentiality of your login credentials and all activity under your account." : {
+
+    },
+    "You have full control over your data. You can delete your daily logs or your entire account at any time via the Profile screen." : {
+
+    },
+    "You must be 13 years or older to use FoodLog. The app is for personal use only and designed to help log meals and digestive symptoms." : {
+
+    },
+    "You're experiencing more trigger foods than safe foods. Consider focusing on your safe food list and gradually reintroducing foods." : {
+
+    }
+  },
+  "version" : "1.0"
+}
