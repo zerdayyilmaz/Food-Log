@@ -58,6 +58,7 @@ Build and run on Xcode 15+.
 Author
 Zerda Yılmaz Junior iOS Developer
 My Linkedin: https://www.linkedin.com/in/zerda-yılmaz-08319623a/
+
 Note: This project is live on the App Store. Some proprietary assets have been removed from this open-source version.
 
 ```swift
