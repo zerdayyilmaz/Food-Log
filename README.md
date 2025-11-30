@@ -13,12 +13,6 @@
 The app features a robust **reporting system** that visualizes weekly data and generates downloadable **PDF health reports** for users to share with their dietitians or doctors.
 
 <p align="center">
-  <img src="Images/Calendar.gif" width="200" alt="Home">
-  &nbsp; &nbsp; &nbsp; <img src="Images/Calendar.gif" width="200" alt="Food Adding">
-</p>
-  <img src="Images/FoodAdding.gif" width="200" alt="Home">
-  &nbsp; &nbsp; &nbsp; <img src="Images/FoodAdding.gif" width="200" alt="Food Adding">
-</p>
   <img src="Images/Stats.png" width="200" alt="Statistics">
   <img src="Images/Stats2.png" width="200" alt="Statistics">
   <img src="Images/PDF1.png" width="200" alt="PDF Report">
